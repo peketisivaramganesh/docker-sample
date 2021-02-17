@@ -1,5 +1,5 @@
 FROM alpine
-LABEL peketisivaramganesh
+LABEL maintainer peketisivaramganesh
 CMD ["echo", "Hello StackOverflow!"]
 
 
